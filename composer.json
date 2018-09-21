@@ -1,0 +1,19 @@
+{
+    "name": "tratasoft/dba",
+    "description": "This is a laravel package to manage the database in migration's way with the user inferface.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asikur Islam",
+            "email": "md.asikurislam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TrataSoft\\Dba\\": "src/"
+        }
+    }
+}
